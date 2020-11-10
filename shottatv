@@ -1,0 +1,52 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn15peet51j3n7214"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC" tvg-logo="https://media.nbcwashington.com/2019/09/NBC-Washington-logo.jpg" group-title="(no group)" tvg-shift="-4",NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1 tvg-id="WTTGDT.us" tvg-name="FOX (WTTG - Washington D.C)" tvg-logo="https://media.fox5dc.com/lakana-fox-global/theme/images/wttg/placeholder-4x3.jpg" group-title="(no group)" tvg-shift="-4",FOX (WTTG - Washington D.C)
+http://mains.vip:2086/craigg/1Lurn7m3F1/90404
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC (WJLA- WASHINGTON DC)" tvg-logo="https://th.bing.com/th/id/OIP.VJ--fkvMpQ_Mdbi6vpIHhgHaHa?w=161&h=180&c=7&o=5&pid=1.7" group-title="(no group)" tvg-shift="-4",ABC (WJLA- WASHINGTON DC)
+http://185.232.53.5:2086/arellano/kgtL965n2Y/90340
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS (WUSA- Washington DC)" tvg-logo="https://th.bing.com/th/id/OIP.mEDadZ2RbcsSp4MpNyI7PgHaFj?w=227&h=180&c=7&o=5&pid=1.7" group-title="(no group)" tvg-shift="-4",CBS (WUSA- Washington DC)
+http://mains.vip:2086/craigg/1Lurn7m3F1/90374
+
+#EXTINF:-1 tvg-id="WDCW.us" tvg-name="THE CW (M)(1080)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11450_dark_360w_270h.png" group-title="(no group)" tvg-shift="-4",THE CW (M)(1080)
+http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/35809?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10179_dark_360w_270h.png" group-title="(no group)" tvg-shift="-4",ESPN
+http://tv.nousiptv.com:25462/live/rod/1234/3371.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12444_dark_360w_270h.png" group-title="(no group)" tvg-shift="-4",ESPN 2
+http://tv.nousiptv.com:25462/live/rod/1234/3372.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FS1 HD" tvg-logo="https://th.bing.com/th/id/OIP.Ne94VrPiAEZ7p1p7ANkKIQAAAA?w=183&h=106&c=7&o=5&pid=1.7" group-title="(no group)" tvg-shift="-4",FS1 HD
+http://tv.nousiptv.com:25462/live/rod/1234/17418.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD NETWORK" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12574_dark_360w_270h.png" group-title="(no group)" tvg-shift="-4",FOOD NETWORK
+http://mains.vip:2086/craigg/1Lurn7m3F1/195?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO EAST" tvg-logo="https://th.bing.com/th/id/OIP.FgIszZ2iZBEIPNmhFbkiZAHaFj?w=225&h=180&c=7&o=5&pid=1.7" group-title="(no group)" tvg-shift="-4",HBO EAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/14948?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="https://th.bing.com/th/id/OIP.aZode3BW1Aer4kEo_o3LhQHaDg?w=204&h=103&c=7&o=5&pid=1.7" group-title="(no group)" tvg-shift="-4",LIFETIME MOVIE NETWORK
+http://mains.vip:2086/craigg/1Lurn7m3F1/338?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="TVONE.us" tvg-name="TV ONE" tvg-logo="https://th.bing.com/th/id/OIP.OAPa95c__18UxnP-el_FBgHaC5?w=307&h=137&c=7&o=5&pid=1.7" group-title="(no group)" tvg-shift="-4",TV ONE
+http://mains.vip:2086/craigg/1Lurn7m3F1/5987?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ EAST" tvg-logo="https://th.bing.com/th/id/OIP.CrkZZwZ41QLa2NNiuQ7LTwHaE8?w=269&h=180&c=7&o=5&pid=1.7" group-title="(no group)" tvg-shift="-4",STARZ EAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/329?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME EAST" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11115_dark_360w_270h.png" group-title="(no group)" tvg-shift="-4",SHOWTIME EAST
+http://185.232.53.5:2086/arellano/kgtL965n2Y/332?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX HD" tvg-logo="https://th.bing.com/th/id/OIP.cfRUDfnELlx7fG_ELSOFNAHaHa?w=164&h=180&c=7&o=5&pid=1.7" group-title="(no group)" tvg-shift="-4",CINEMAX HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/28244?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL NETWORK" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s45399_dark_360w_270h.png" group-title="(no group)" tvg-shift="-4",NFL NETWORK
+http://mains.vip:2086/craigg/1Lurn7m3F1/64168?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s32281_dark_360w_270h.png" group-title="(no group)" tvg-shift="-4",NBA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/336
